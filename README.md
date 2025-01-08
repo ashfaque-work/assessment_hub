@@ -68,15 +68,6 @@ A backend application for managing users, categories, questions, and answers in 
 
 ---
 
-### **Answer Management**
-
-| Method | Endpoint                | Description                     |
-|--------|-------------------------|---------------------------------|
-| POST   | `/api/answers`          | Submit an answer.               |
-| GET    | `/api/answers/search`   | Search submitted answers.       |
-
----
-
 ### **How to Add This to Your Project**
 1. **Create the `README.md` file** in the root directory of your project.
 2. **Paste** the content above into the `README.md`.
